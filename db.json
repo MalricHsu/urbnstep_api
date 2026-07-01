@@ -169,6 +169,88 @@
       "onSale": true
     },
     {
+      "id": 3,
+      "name": "Melty Kiss",
+      "price": 4000,
+      "originalPrice": 4600,
+      "categoryId": 4,
+      "categorySlug": "厚底鞋",
+      "description": "粉嫩配色搭配星星印花，甜美又好搭的厚底鞋款。",
+      "thumb": "https://raw.githubusercontent.com/hexschool/2022-web-layout-training/main/2025-week2/product-2.png",
+      "images": [
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-1.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-2.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-3.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-4.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-5.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-6.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-7.png?raw=true"
+      ],
+      "colors": [
+        {
+          "name": "藍白",
+          "code": "#1B2A4A"
+        },
+        {
+          "name": "卡其色",
+          "code": "#C9B79C"
+        }
+      ],
+      "sizes": [
+        {
+          "eu": 35,
+          "cm": 22.5,
+          "inStock": true
+        },
+        {
+          "eu": 36,
+          "cm": 23,
+          "inStock": true
+        },
+        {
+          "eu": 37,
+          "cm": 23.5,
+          "inStock": true
+        },
+        {
+          "eu": 38,
+          "cm": 24,
+          "inStock": true
+        },
+        {
+          "eu": 39,
+          "cm": 24.5,
+          "inStock": true
+        },
+        {
+          "eu": 40,
+          "cm": 25,
+          "inStock": true
+        },
+        {
+          "eu": 41,
+          "cm": 26,
+          "inStock": true
+        },
+        {
+          "eu": 42,
+          "cm": 26.5,
+          "inStock": false
+        },
+        {
+          "eu": 43,
+          "cm": 27,
+          "inStock": false
+        }
+      ],
+      "stock": 8,
+      "material": "鞋面：合成皮革（Synthetic Leather）；內裡：透氣網布；鞋底：EVA",
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "onSale": true
+    },
+    {
       "id": 4,
       "name": "BOOMBLOK",
       "price": 3200,
@@ -341,6 +423,88 @@
       "onSale": true
     },
     {
+      "id": 6,
+      "name": "Sugar Snap",
+      "price": 4000,
+      "originalPrice": 4600,
+      "categoryId": 4,
+      "categorySlug": "厚底鞋",
+      "description": "馬卡龍奶油色調，柔軟腳感的休閒厚底鞋。",
+      "thumb": "https://raw.githubusercontent.com/hexschool/2022-web-layout-training/main/2025-week2/product-5.png",
+      "images": [
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-1.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-2.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-3.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-4.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-5.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-6.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-7.png?raw=true"
+      ],
+      "colors": [
+        {
+          "name": "藍白",
+          "code": "#1B2A4A"
+        },
+        {
+          "name": "卡其色",
+          "code": "#C9B79C"
+        }
+      ],
+      "sizes": [
+        {
+          "eu": 35,
+          "cm": 22.5,
+          "inStock": true
+        },
+        {
+          "eu": 36,
+          "cm": 23,
+          "inStock": true
+        },
+        {
+          "eu": 37,
+          "cm": 23.5,
+          "inStock": true
+        },
+        {
+          "eu": 38,
+          "cm": 24,
+          "inStock": true
+        },
+        {
+          "eu": 39,
+          "cm": 24.5,
+          "inStock": true
+        },
+        {
+          "eu": 40,
+          "cm": 25,
+          "inStock": true
+        },
+        {
+          "eu": 41,
+          "cm": 26,
+          "inStock": true
+        },
+        {
+          "eu": 42,
+          "cm": 26.5,
+          "inStock": false
+        },
+        {
+          "eu": 43,
+          "cm": 27,
+          "inStock": false
+        }
+      ],
+      "stock": 4,
+      "material": "鞋面：合成皮革（Synthetic Leather）；內裡：透氣網布；鞋底：EVA",
+      "isNewArrival": false,
+      "isBestSeller": false,
+      "onSale": true
+    },
+    {
       "id": 7,
       "name": "Neofoam",
       "price": 4000,
@@ -420,6 +584,88 @@
       "material": "鞋面：合成皮革（Synthetic Leather）；內裡：透氣網布；鞋底：EVA",
       "isNewArrival": false,
       "isBestSeller": true,
+      "onSale": true
+    },
+    {
+      "id": 8,
+      "name": "Monoverse",
+      "price": 3600,
+      "originalPrice": 4200,
+      "categoryId": 4,
+      "categorySlug": "厚底鞋",
+      "description": "單色極簡美學，百搭耐看的厚底經典款。",
+      "thumb": "https://raw.githubusercontent.com/hexschool/2022-web-layout-training/main/2025-week2/product-7.png",
+      "images": [
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-1.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-2.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-3.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-4.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-5.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-6.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-7.png?raw=true"
+      ],
+      "colors": [
+        {
+          "name": "藍白",
+          "code": "#1B2A4A"
+        },
+        {
+          "name": "卡其色",
+          "code": "#C9B79C"
+        }
+      ],
+      "sizes": [
+        {
+          "eu": 35,
+          "cm": 22.5,
+          "inStock": true
+        },
+        {
+          "eu": 36,
+          "cm": 23,
+          "inStock": true
+        },
+        {
+          "eu": 37,
+          "cm": 23.5,
+          "inStock": true
+        },
+        {
+          "eu": 38,
+          "cm": 24,
+          "inStock": true
+        },
+        {
+          "eu": 39,
+          "cm": 24.5,
+          "inStock": true
+        },
+        {
+          "eu": 40,
+          "cm": 25,
+          "inStock": true
+        },
+        {
+          "eu": 41,
+          "cm": 26,
+          "inStock": true
+        },
+        {
+          "eu": 42,
+          "cm": 26.5,
+          "inStock": false
+        },
+        {
+          "eu": 43,
+          "cm": 27,
+          "inStock": false
+        }
+      ],
+      "stock": 9,
+      "material": "鞋面：合成皮革（Synthetic Leather）；內裡：透氣網布；鞋底：EVA",
+      "isNewArrival": true,
+      "isBestSeller": false,
       "onSale": true
     },
     {
@@ -507,6 +753,170 @@
       "isNewArrival": true,
       "isBestSeller": false,
       "onSale": true
+    },
+    {
+      "id": 10,
+      "name": "URBN Force",
+      "price": 3200,
+      "originalPrice": 3800,
+      "categoryId": 5,
+      "categorySlug": "限定 / 聯名企劃",
+      "description": "強調包覆與支撐的機能跑鞋，動靜皆宜。",
+      "thumb": "https://raw.githubusercontent.com/hexschool/2022-web-layout-training/main/2025-week3-4/product-10.png",
+      "images": [
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-1.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-2.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-3.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-4.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-5.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-6.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-7.png?raw=true"
+      ],
+      "colors": [
+        {
+          "name": "藍白",
+          "code": "#1B2A4A"
+        },
+        {
+          "name": "卡其色",
+          "code": "#C9B79C"
+        }
+      ],
+      "sizes": [
+        {
+          "eu": 35,
+          "cm": 22.5,
+          "inStock": true
+        },
+        {
+          "eu": 36,
+          "cm": 23,
+          "inStock": true
+        },
+        {
+          "eu": 37,
+          "cm": 23.5,
+          "inStock": true
+        },
+        {
+          "eu": 38,
+          "cm": 24,
+          "inStock": true
+        },
+        {
+          "eu": 39,
+          "cm": 24.5,
+          "inStock": true
+        },
+        {
+          "eu": 40,
+          "cm": 25,
+          "inStock": true
+        },
+        {
+          "eu": 41,
+          "cm": 26,
+          "inStock": true
+        },
+        {
+          "eu": 42,
+          "cm": 26.5,
+          "inStock": false
+        },
+        {
+          "eu": 43,
+          "cm": 27,
+          "inStock": false
+        }
+      ],
+      "stock": 5,
+      "material": "鞋面：合成皮革（Synthetic Leather）；內裡：透氣網布；鞋底：EVA",
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "onSale": true
+    },
+    {
+      "id": 11,
+      "name": "URBN Force",
+      "price": 3200,
+      "originalPrice": 3800,
+      "categoryId": 5,
+      "categorySlug": "限定 / 聯名企劃",
+      "description": "強調包覆與支撐的機能跑鞋，動靜皆宜。",
+      "thumb": "https://raw.githubusercontent.com/hexschool/2022-web-layout-training/main/2025-week3-4/product-11.png",
+      "images": [
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-1.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-2.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-3.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-4.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-5.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-6.png?raw=true",
+        "https://github.com/hexschool/2022-web-layout-training/blob/main/2025-week2/image-7.png?raw=true"
+      ],
+      "colors": [
+        {
+          "name": "藍白",
+          "code": "#1B2A4A"
+        },
+        {
+          "name": "卡其色",
+          "code": "#C9B79C"
+        }
+      ],
+      "sizes": [
+        {
+          "eu": 35,
+          "cm": 22.5,
+          "inStock": true
+        },
+        {
+          "eu": 36,
+          "cm": 23,
+          "inStock": true
+        },
+        {
+          "eu": 37,
+          "cm": 23.5,
+          "inStock": true
+        },
+        {
+          "eu": 38,
+          "cm": 24,
+          "inStock": true
+        },
+        {
+          "eu": 39,
+          "cm": 24.5,
+          "inStock": true
+        },
+        {
+          "eu": 40,
+          "cm": 25,
+          "inStock": true
+        },
+        {
+          "eu": 41,
+          "cm": 26,
+          "inStock": true
+        },
+        {
+          "eu": 42,
+          "cm": 26.5,
+          "inStock": false
+        },
+        {
+          "eu": 43,
+          "cm": 27,
+          "inStock": false
+        }
+      ],
+      "stock": 5,
+      "material": "鞋面：合成皮革（Synthetic Leather）；內裡：透氣網布；鞋底：EVA",
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "onSale": true
     }
   ],
   "newProduct": [
@@ -578,28 +988,16 @@
       "name": "厚底系列",
       "image": "https://raw.githubusercontent.com/hexschool/2022-web-layout-training/main/2025-week2/product-9.png",
       "productId": 5
-    }
-  ],
-  "users": [
-    {
-      "email": "probe_test_9137@example.com",
-      "password": "$2a$10$1hFFsaDxMAjXvcjPKbcY1e7mG2dsxIe1s6NdCMG5pjkpCQpe/LV0G",
-      "name": "測試哥",
-      "id": 1
     },
     {
-      "email": "wang22377@test.com",
-      "password": "$2a$10$ROVlR66mMIY1Saqu51lTH.bjjKn17muM7Ky2CF55PSdZ3VGtYoIAq",
-      "name": "王小明",
-      "id": 2
-    },
-    {
-      "email": "7lun@gmail.com",
-      "password": "$2a$10$kcovVIvmoq5UuWPO5V8uNu7vs5.irceS.9BgezxJ7Zkt3q00hDUJS",
-      "name": "7lun",
-      "id": 3
+      "id": 4,
+      "slug": "COLLAB ZONE",
+      "name": "聯名企劃",
+      "image": "https://raw.githubusercontent.com/hexschool/2022-web-layout-training/main/2025-week3-4/product-10.png",
+      "productId": 10
     }
   ],
+  "users": [],
   "favorites": [
     {
       "memberId": "1",
@@ -616,6 +1014,14 @@
       "size": 37,
       "quantity": 1,
       "id": 3
+    },
+    {
+      "memberId": "3",
+      "productId": 1,
+      "color": "淺灰",
+      "size": 37,
+      "quantity": 1,
+      "id": 4
     }
   ],
   "cart": [

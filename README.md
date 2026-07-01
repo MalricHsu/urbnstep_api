@@ -48,17 +48,12 @@ Authorization: Bearer <accessToken>
 |---|---|
 | `/products` | 商品列表（含 `images`、`colors`、`sizes`…） |
 | `/products/1` | 單一商品 |
-| `/products?categoryId=2` | 依分類篩選 |
-| `/products?isNewArrival=true` | 新品 |
-| `/products?isBestSeller=true` | 熱銷 |
-| `/products?onSale=true` | 特價 |
 | `/newProduct` | 首頁新品區塊圖 |
 | `/hotProduct` | 首頁熱銷區塊圖 |
 | `/categories` | 分類 |
 | `/users` | 會員（密碼為 bcrypt 雜湊） |
 | `/favorites` | 收藏 |
 | `/cart` | 購物車 |
-| `/orders` | 訂單 |
 
 常用查詢參數：分頁 `_page` `_limit`、排序 `_sort` `_order`、全文搜尋 `q=`、範圍 `_gte` `_lte`。
 
